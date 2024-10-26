@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @littlesailorito
-I'm pleased to welcome you on my repository.I'm a cybersecurity student that is in love with programing. 
-Here, I post all my current projects and completed projects.
+I'm pleased to welcome you on my repository. I'm a cybersecurity student that is in love with programming. 
+
 
 - 👀 I’m interested in Cybersec applications
 
